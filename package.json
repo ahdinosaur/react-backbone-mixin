@@ -1,0 +1,24 @@
+{
+  "name": "react-backbone-mixin",
+  "version": "0.1.0",
+  "description": "http://eldar.djafarov.com/2013/11/reactjs-mixing-with-backbone/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahdinosaur/react-backbone-mixin.git"
+  },
+  "keywords": [
+    "react",
+    "backbone",
+    "mixin",
+    "bind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/react-backbone-mixin/issues"
+  }
+}
